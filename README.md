@@ -3,7 +3,7 @@
 This Python script connects to any YouTube channel (in any format: `@handle`, `/c/`, or `/channel/`) and retrieves the **titles of all videos** on that channel using the `yt-dlp` library.
 
 ---
-
+Note that it's totally based on Python  
 ##  Features
 
 - ✅ Extracts all video titles using `yt-dlp` (supports @handle, /c/, and /channel/ URLs)
